@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3">
+        <Style id="16">
+            <LineStyle id="17">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="5">
+            <name>Statue of Liberty</name>
+            <Point id="4">
+                <coordinates>40.689247,-74.044502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Times Square</name>
+            <Point id="6">
+                <coordinates>40.758,-73.9855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Central Park</name>
+            <Point id="8">
+                <coordinates>40.785091,-73.968285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Empire State Building</name>
+            <Point id="10">
+                <coordinates>40.748817,-73.985428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Brooklyn Bridge</name>
+            <Point id="12">
+                <coordinates>40.7061,-73.9969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>TSP Path</name>
+            <styleUrl>#16</styleUrl>
+            <LineString id="14">
+                <coordinates>40.689247,-74.044502,0.0 40.758,-73.9855,0.0 40.785091,-73.968285,0.0 40.748817,-73.985428,0.0 40.7061,-73.9969,0.0 40.689247,-74.044502,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
